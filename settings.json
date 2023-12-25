@@ -1,0 +1,8 @@
+{
+    // enable Git in VS Code
+   "git.enabled": true,
+ 
+   // point to the Git executable
+   "git.path": "C:\\Program Files\\Git\\cmd\\git.exe"
+ }
+ 
